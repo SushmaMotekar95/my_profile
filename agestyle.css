@@ -1,0 +1,42 @@
+*{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+    color :white;
+    font-family: 'Itim',cursive;
+}
+#container{
+    width: 400px;
+    height: 250px;
+    background-color: #0d5c63;
+    margin-top: 200px;
+    margin-left: 300px;
+    border-radius: 20px;
+    text-align: center;
+    color:white;
+   
+}
+h2{
+    padding-top: 20px;
+    text-align: center;
+    color: darkgoldenrod;
+    font-family: 'Roboto Slab',serif;
+    text-shadow: 2px 2px 1px rgb(91,92,95);
+}
+button{
+    border-radius: 10px;
+    background-color: darkgoldenrod;
+    color:white;
+    height: 30px;
+    width:100px;
+   
+}
+input{
+    background-color: darkslategrey;
+    color:white;
+    border-radius: 5px;
+}
+.logo{
+    text-align:center;
+    word-spacing: 20px;
+}
