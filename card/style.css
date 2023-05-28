@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    
+    background-color: #ecf0f1;
+}
+img{
+    border-radius: 100px;
+}
+ 
+#box1{
+    margin:60px 0px 0px 100px;
+    width:35%;
+    background-color:#387a80;
+    color:#FFFFFA;
+    box-shadow: 13px 13px 10px -8px rgb(82,80,80);
+    border-radius: 10px;
+    
+    
+    
+    
+}
+#box2{
+    
+    background-color:rgb(87, 184, 131);
+    border-radius: 12px;
+    padding-bottom: 1px;
+   
+    
+   
+
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+}
+#text{
+    font-family:Arial, Helvetica, sans-serif;
+}
